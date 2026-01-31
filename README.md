@@ -1,20 +1,4 @@
-Conversation opened. 1 unread message.
 
-Skip to content
-Using Gmail with screen readers
-
-1 of 15,212
-READ ME
-Inbox
-
-Aditya Sinha
-Attachments
-7:38 PM (0 minutes ago)
-to me
-
-
- One attachment
-  •  Scanned by Gmail
 📊 WhatsApp Chat Analysis 📌 Project Overview
 
 This project performs an exploratory analysis of WhatsApp chat data using Python. The goal is to extract useful insights such as message activity, most active users, word usage, and emoji trends from an exported WhatsApp chat file.
